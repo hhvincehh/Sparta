@@ -17,9 +17,11 @@ component: navbar
       <ul class="nav navbar-nav">
         <!-- you can exclude pages using \{{#isnt}} helper: \{{#isnt data.title 'Blog'}} -->
         {{#each pages}}
+        {{#isnt data.title 'Home'}}
         <li{{#if this.isCurrentPage}} class="active"{{/if}}>
           <a href="{{relative dest this.dest}}">{{ data.title }}</a>
         </li>
+        {{/isnt}}
         {{/each}}
       </ul>
       <!-- ul class="nav navbar-nav navbar-right">
