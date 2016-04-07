@@ -11,6 +11,7 @@ Stand 06.04.16
  * Jedes Mitglied, welches die Regeln verletzt wird einmal verwarnt und danach degradiert oder ausgeschlossen.
  * Den Anweisungen von Anführern (inklusive Vize-) muss Folge geleistet werden.
  * Nur Spenden was gefordert ist.
+ * Das Spendenverhältnis sollte zwischen 1:10 und 10:1 liegen.
 
 ##Einschränkungen
 Die durch das Spiel verteilten Rechte für Spieler werden in folgender Weise eingeschränkt:
