@@ -17,4 +17,7 @@ Jedes Clanmitglied hat die folgenden Rechte:
  - An Kriegen teilzunehmen.
 
 ##Pflichten
-Jedes Mitglied hat sich an die aktuellen Clanregeln zu halten.
+Jedes Mitglied hat sich an die aktuellen [Clanregeln](Regeln.html) zu halten.
+
+##Clan
+Ihr findet uns [im Spiel](https://clashofclans.com/clans/clan?clanTag=P9L0828L).

@@ -4,14 +4,14 @@ Unsere Regeln sind für uns die Essenz unseres Clans und garantieren das maximal
 
 Wir haben die folgenden Regeln:
 
-Stand 06.04.16
+Stand 18.04.16
 
 ## Grundsätzliches
  * Alle Mitglieder des Clans gehen freundlich miteinander um und respektieren einander und Dritte.
  * Jedes Mitglied, welches die Regeln verletzt wird einmal verwarnt und danach degradiert oder ausgeschlossen.
  * Den Anweisungen von Anführern (inklusive Vize-) muss Folge geleistet werden.
  * Nur Spenden was gefordert ist.
- * Das Spendenverhältnis sollte zwischen 1:10 und 10:1 liegen.
+ * Das Spendenverhältnis ist egal. Spendet einfach nicht an Leute die nicht spenden.
 
 ##Einschränkungen
 Die durch das Spiel verteilten Rechte für Spieler werden in folgender Weise eingeschränkt:
@@ -19,8 +19,14 @@ Die durch das Spiel verteilten Rechte für Spieler werden in folgender Weise ein
  * Anführerrechte dürfen nur in Absprache mit den anderen Anführern benutzt werden.
 
 ## Aufnahme
- * Nur Spieler mit ein für Ihren Fortschritt vernünftigen Angriffsmöglichkeiten werden aufgenommen.
+ * Spieler werden aufgenommen, wenn sie unsere [Anforderungen](Anforderungen.html) erfüllen.
  * Jeder neuaufgenommene Spieler muss an dem nächstem Krieg teilnehmen und mindestens einmal drei Sterne bei einem Gegner höchstens ein RH-Level tiefer erreichen, ansonsten wird er wieder ausgestossen.
+
+##Fortschrittsregeln
+ * Jedes Mitglied verpflichtet sich zur Einhaltung unser [Anforderungen](Anforderungen.html) an sein Dorf.
+ * Grundsätzlich gilt, dass zuerst der Angriff ausgebaut wird und danach die Verteidigung verbesser wird.
+ * Gute Helden sind für unsere Mitglieder höchste Priorität und werden so schnell wie möglich verbessert.
+
 
 ## Aufstiegsregeln.
 ### Ältester
@@ -48,5 +54,5 @@ Die durch das Spiel verteilten Rechte für Spieler werden in folgender Weise ein
 
 
 ## Regeländerungen
- *  Die Regeln werden fortlaufend an die Bedürfnisse aller Mitglieder angepasst.
+ * Die Regeln werden fortlaufend an die Bedürfnisse aller Mitglieder angepasst.
  * Regeländerungen erfolgen nur wenn 2/3 der Anführer dafür stimmen.a
