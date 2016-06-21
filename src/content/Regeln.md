@@ -20,7 +20,7 @@ Die durch das Spiel verteilten Rechte für Spieler werden in folgender Weise ein
 
 ## Aufnahme
  * Spieler werden aufgenommen, wenn sie unsere [Anforderungen](Anforderungen.html) erfüllen.
- * Jeder neuaufgenommene Spieler muss an dem nächstem Krieg teilnehmen und mindestens einmal drei Sterne bei einem Gegner höchstens ein RH-Level tiefer erreichen, ansonsten wird er wieder ausgestossen.
+ * Jeder neuaufgenommene Spieler muss an dem nächstem Krieg teilnehmen und sich beweisen, ansonsten wird er wieder ausgestossen.
 
 ##Fortschrittsregeln
  * Jedes Mitglied verpflichtet sich zur Einhaltung unser [Anforderungen](Anforderungen.html) an sein Dorf.
@@ -34,15 +34,9 @@ Die durch das Spiel verteilten Rechte für Spieler werden in folgender Weise ein
  1. Im Krieg mindestens einmal drei Sterne bei einem Gegner höchstens ein RH-Level tiefer erreichen.
  2. Mit einem dem COC-Account zuordbarem Benutzeraccount an dem Bindlechat (#COCSparta) teilnehmen.
 
-### Anführer
-  Für den Aufstieg zum Anführer sind die folgenden Kriterien zu erfüllen:
- 1. Vorbildliches Verhalten
- 2. Überdurchschnittliches Leistung im Krieg
- 3. Starkes Engagement im Clan (Z.B. Beraten andere Spieler zu Kampfttaktiken, Mitarbeit an der Webseite, etc.)
-
 
 ## Kriegsregeln
- * Mitglieder sind nur rot, wenn es unmöglich ist die Kämpfe wahrzunehmen.
+ * Mitglieder sind nur rot, wenn sie nicht mit bestmöglichen Truppen am Krieg teilnehmen können.
  * Die Nichtteilnahme an Clankriegen ist die Ausnahme.
  * Mitglieder halten sich für jeden Krieg so vorbereitet wie möglich.
  * Zwei Kämpfe sind Pflicht.
@@ -50,7 +44,7 @@ Die durch das Spiel verteilten Rechte für Spieler werden in folgender Weise ein
  * Bis auf in der Spitze sind sichere drei Sterne das Ziel.
  * In der Spitze (gegnerische RH10 + RH11) sind mindestens zwei Sterne das Ziel.
  * Das Hauptziel im Krieg ist der Sieg, das Zweitziel ist das Sammeln von Clanerfahrungspunkten.
- * Das Farmen im Krieg (Angreifen ohne Aussicht auf drei Sterne) ist erst erlaubt, wenn bei keinem Gegner mehr drei Sterne möglich sind.
+ * Das Farmen im Krieg (Angreifen ohne Aussicht auf drei Sterne) ist erst erlaubt, wenn bei keinem Gegner mehr realistisch drei Sterne möglich sind.
 
 
 ## Regeländerungen
